@@ -10,7 +10,7 @@ import math
 import streamlit.components.v1 as components
 
 # Configuración de la página
-st.set_page_config(page_title="Santiago Mussi | Numeric Solver", layout="wide")
+st.set_page_config(page_title="Numerical Methods Solver", layout="wide")
 
 st.title("Analizador de Métodos Numéricos")
 st.markdown("---")
