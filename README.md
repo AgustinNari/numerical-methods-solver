@@ -78,14 +78,6 @@ npm run dev
 See the React simulator README
  for additional details.
 
-<text color="secondary" size="xs">Copiá la sección Markdown completa, incluyendo los tres comandos dentro del bloque bash.</text>
-
-Commit:
-
-```text
-docs: link additional React simulator
-```
-
 ## Scope
 
 The application is intended as an educational and analytical tool for exploring numerical methods and their behavior through interactive examples.
