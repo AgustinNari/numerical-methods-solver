@@ -73,7 +73,7 @@ To run it locally:
 cd Simulador2
 npm ci
 npm run dev
-
+```
 
 See the React simulator README
  for additional details.
@@ -84,6 +84,7 @@ Commit:
 
 ```text
 docs: link additional React simulator
+```
 
 ## Scope
 
