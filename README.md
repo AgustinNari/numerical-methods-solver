@@ -75,7 +75,7 @@ npm ci
 npm run dev
 ```
 
-See the React simulator [README](https://Simulador2/README.md) for additional details.
+See the React simulator [README](Simulador2/README.md) for additional details.
 
 ## Scope
 
