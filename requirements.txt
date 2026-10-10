@@ -4,3 +4,4 @@ pandas
 sympy
 derivative
 scipy
+numpy
