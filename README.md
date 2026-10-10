@@ -1,6 +1,6 @@
 # Numerical Methods Solver
 
-Interactive Python application developed as an academic team project for exploring numerical methods through calculations, visualizations, convergence analysis, and step-by-step results.
+Interactive Python application developed collaboratively to explore numerical methods through calculations, visualizations, convergence analysis, and step-by-step results.
 
 Built with Streamlit, the application covers root finding, interpolation, numerical integration, Monte Carlo techniques, and ordinary differential equations.
 
