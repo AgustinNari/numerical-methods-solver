@@ -84,4 +84,4 @@ Streamlit displays the local URL in the terminal (typically `http://localhost:85
 
 ## Scope
 
-This project is an educational and analytical tool for exploring numerical methods and understanding their behavior through interactive examples. It was developed collaboratively as part of an academic course.
+The project provides an interactive environment for exploring numerical approximations and understanding their behavior through practical examples.
